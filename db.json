@@ -26,6 +26,11 @@
      , "imageText": "image text"
      , "category": "travel"
     }
+  ],  
+  "categories": [
+    { "id": 1, "title": "Food" },
+    { "id": 2, "title": "Health" }
+    { "id": 2, "title": "Travel" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
