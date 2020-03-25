@@ -23,6 +23,31 @@
      , "date": "13-April-2019"
      , "imageText": "image text"
      , "category": "travel"
+    }, 
+      "blogposts": [
+    { "id": 4 
+     , "title": "Post 4"
+     , "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+     , "image": "https://source.unsplash.com/random"
+     , "date": "11-April-2019"
+     , "imageText": "image text"
+     , "category": "food"
+    },
+    { "id": 5 
+     , "title": "Post 5"
+     , "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+     , "image": "https://source.unsplash.com/random"
+     , "date": "12-April-2019"
+     , "imageText": "image text"
+     , "category": "health"
+    },
+    { "id": 6 
+     , "title": "Post 6"
+     , "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+     , "image": "https://source.unsplash.com/random"
+     , "date": "13-April-2019"
+     , "imageText": "image text"
+     , "category": "travel"
     }
   ],  
   "categories": [
