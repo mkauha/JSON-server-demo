@@ -7,7 +7,7 @@
      , "imageUrl": "https://source.unsplash.com/random"
      , "date": "11-April-2019"
      , "url": ""
-     , "category": "food"
+     , "category": "Programming"
     },
     { "id": 2 
      , "title": "Post 2"
@@ -16,7 +16,7 @@
      , "imageUrl": "https://source.unsplash.com/random"
      , "date": "12-April-2019"
      , "url": ""
-     , "category": "health"
+     , "category": "Technology"
     },
     { "id": 3 
      , "title": "Post 3"
@@ -25,7 +25,7 @@
      , "imageUrl": "https://source.unsplash.com/random"
      , "date": "13-April-2019"
      , "url": ""
-     , "category": "travel"
+     , "category": "AI"
     }, 
     { "id": 4 
      , "title": "Post 4"
@@ -34,7 +34,7 @@
      , "imageUrl": "https://source.unsplash.com/random"
      , "date": "11-April-2019"
      , "url": ""
-     , "category": "food"
+     , "category": "Work"
     },
     { "id": 5 
      , "title": "Post 5"
@@ -43,7 +43,7 @@
      , "imageUrl": "https://source.unsplash.com/random"
      , "date": "12-April-2019"
      , "url": ""
-     , "category": "health"
+     , "category": "Lifestyle"
     },
     { "id": 6 
      , "title": "Post 6"
@@ -52,20 +52,32 @@
      , "imageUrl": "https://source.unsplash.com/random"
      , "date": "13-April-2019"
      , "url": ""
-     , "category": "travel"
+     , "category": "Android"
     }
   ],  
   "categories": [
     { "id": 1
-     , "title": "Food"
+     , "title": "Programming"
      , "url": ""
     },
     { "id": 2
-     , "title": "Health"
+     , "title": "Technology"
      , "url": ""
     },
     { "id": 3
-     , "title": "Travel"
+     , "title": "AI"
+     , "url": ""
+    },
+    { "id": 4
+     , "title": "Android"
+     , "url": ""
+    },
+    { "id": 5
+     , "title": "Work"
+     , "url": ""
+    },
+    { "id": 6
+     , "title": "Lifestyle"
      , "url": ""
     }
   ],
