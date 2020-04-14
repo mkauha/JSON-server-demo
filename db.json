@@ -82,8 +82,9 @@
     }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "author": "Guest123", "body": "Very good post!", "likes": 0, "date": "14-4-2020" },
+    { "id": 2, "author": "Guest214", "body": "Best post!", "likes": 10, "date": "13-3-2020" },
+    { "id": 3, "author": "Guest512", "body": "Nice one!", "likes": 5, "date": "23-3-2020" }
   ],
   "profile": {
     "name": "typicode"
